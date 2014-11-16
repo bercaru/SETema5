@@ -1,3 +1,9 @@
+
+/* clasa care va crea obiecte de tip Animal implementeaza meode
+ * din clasa AbstractCreator
+ */
+
+
 package creator;
 
 import beings.Animal;

@@ -1,3 +1,9 @@
+
+/* aceasta este clasa care va crea "fabrici" , va crea obiecte de tip
+ * AbstractCreator care de fapt vor fi Maternity sau Forest 
+ */
+
+
 package creator;
 
 public class Creator {
